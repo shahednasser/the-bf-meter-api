@@ -1,2 +1,2 @@
-# Open Source Rating
-The Community Rates Their Experience In Different Open Source Repositories
+# The Beginner Friendly Meter (API)
+The Community Rates How Beginner Friendly a Repository Is
